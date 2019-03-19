@@ -1,7 +1,8 @@
 ---
 title: tdd-cycle
 created: '2019-03-18T13:56:47.652Z'
-modified: '2019-03-18T14:23:47.407Z'
+modified: '2019-03-19T20:38:20.012Z'
+tags: [fundamentals]
 ---
 
 # tdd-cycle 

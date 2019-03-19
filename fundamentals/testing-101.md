@@ -1,3 +1,10 @@
+---
+title: testing-101
+created: '2019-03-19T20:32:06.353Z'
+modified: '2019-03-19T20:38:20.015Z'
+tags: [fundamentals]
+---
+
 # Testing 101
 
 - As developers we spend more time debugging code than actually writing it.
