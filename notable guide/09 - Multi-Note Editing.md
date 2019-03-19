@@ -1,6 +1,7 @@
 ---
 title: 09 - Multi-Note Editing
-tags: [Intermediate, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:45:34.434Z'
 ---
 
 # 09 - Multi-Note Editing

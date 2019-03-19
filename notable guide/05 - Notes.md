@@ -1,6 +1,7 @@
 ---
 title: 05 - Notes
-tags: [Basics, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.083Z'
+modified: '2019-03-19T20:46:13.915Z'
 ---
 
 # 05 - Notes

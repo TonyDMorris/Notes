@@ -1,8 +1,7 @@
 ---
 title: 06 - Tags
-tags: [Basics, fundamentals, Notebooks/Tutorial]
 created: '2019-03-16T14:39:12.951Z'
-modified: '2019-03-19T20:37:26.454Z'
+modified: '2019-03-19T20:46:08.392Z'
 ---
 
 # 06 - Tags

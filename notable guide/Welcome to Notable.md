@@ -1,8 +1,9 @@
 ---
-title: 'Welcome to Notable'
+title: Welcome to Notable
 pinned: true
 attachments: [icon.png]
-tags: [Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:46:31.950Z'
 ---
 
 # Welcome to Notable :raising_hand_woman:

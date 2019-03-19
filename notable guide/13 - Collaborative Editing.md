@@ -1,7 +1,7 @@
 ---
 title: 13 - Collaborative Editing
-pinned: false
-tags: [Advanced, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:45:55.694Z'
 ---
 
 # 13 - Collaborative Editing

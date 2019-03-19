@@ -1,6 +1,7 @@
 ---
 title: 08 - Importing
-tags: [Intermediate, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.083Z'
+modified: '2019-03-19T20:45:38.368Z'
 ---
 
 # 08 - Importing

@@ -1,7 +1,7 @@
 ---
-title: 'Wrapping up'
-pinned: false
-tags: [Notebooks/Tutorial]
+title: Wrapping up
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:46:35.090Z'
 ---
 
 # Wrapping up :tada:

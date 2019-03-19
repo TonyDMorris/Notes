@@ -1,7 +1,7 @@
 ---
 title: 12 - Mobile Editing
-pinned: false
-tags: [Advanced, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:45:59.477Z'
 ---
 
 # 12 - Mobile Editing

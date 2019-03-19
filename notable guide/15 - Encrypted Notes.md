@@ -1,7 +1,7 @@
 ---
 title: 15 - Encrypted Notes
-pinned: false
-tags: [Advanced, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:45:45.372Z'
 ---
 
 # 15 - Encrypted Notes

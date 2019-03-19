@@ -1,7 +1,8 @@
 ---
 title: 10 - Linking Attachments/Notes/Tags
-tags: [Intermediate, Notebooks/Tutorial]
 attachments: [icon_small.png]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:44:46.821Z'
 ---
 
 # 10 - Linking Attachments/Notes/Tags

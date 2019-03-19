@@ -1,7 +1,7 @@
 ---
 title: 14 - Version Control
-pinned: false
-tags: [Advanced, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.087Z'
+modified: '2019-03-19T20:45:50.063Z'
 ---
 
 # 14 - Version Control

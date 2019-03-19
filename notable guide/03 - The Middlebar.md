@@ -1,6 +1,7 @@
 ---
 title: 03 - The Middlebar
-tags: [Basics, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.083Z'
+modified: '2019-03-19T20:46:22.082Z'
 ---
 
 # 03 - The Middlebar

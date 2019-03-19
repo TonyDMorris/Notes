@@ -1,7 +1,7 @@
 ---
 title: 01 - The Data Directory
-pinned: false
-tags: [Basics, Notebooks/Tutorial]
+created: '2019-03-19T20:39:05.079Z'
+modified: '2019-03-19T20:46:28.864Z'
 ---
 
 # 01 - The Data Directory
