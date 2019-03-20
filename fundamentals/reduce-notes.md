@@ -1,3 +1,10 @@
+---
+title: reduce-notes
+created: '2019-03-20T16:05:21.679Z'
+modified: '2019-03-20T16:07:39.575Z'
+tags: [fundamentals]
+---
+
 ### reduce
 
 ## Motivation

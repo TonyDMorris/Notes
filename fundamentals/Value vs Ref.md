@@ -1,3 +1,10 @@
+---
+title: Value vs Ref
+created: '2019-03-20T16:04:57.175Z'
+modified: '2019-03-20T16:08:05.667Z'
+tags: [fundamentals]
+---
+
 # Value vs Ref
 
 ## Data types
@@ -331,3 +338,4 @@ const { foo, bar } = require('../index.js');
 ## Reading
 
 - http://2ality.com/2011/03/javascript-values-not-everything-is.html
+
