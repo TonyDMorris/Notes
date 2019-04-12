@@ -1,3 +1,10 @@
+---
+title: closure-notes
+created: '2019-03-22T22:28:39.532Z'
+modified: '2019-03-30T21:39:24.537Z'
+tags: [fundamentals]
+---
+
 # Closure
 
 ## Re-cap

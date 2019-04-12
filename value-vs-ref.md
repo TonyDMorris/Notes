@@ -1,13 +1,13 @@
 ---
-title: Value vs Ref
-created: '2019-03-20T16:04:57.175Z'
-modified: '2019-03-30T21:40:44.164Z'
+title: value-vs-ref
+created: '2019-03-28T08:27:09.004Z'
+modified: '2019-03-30T21:39:24.495Z'
 tags: [fundamentals]
 ---
 
 # Value vs Ref
 
-### Data types
+## Data types
 
 The latest ECMAScript standard defines seven data types:
 Values can be partitioned into two main kinds: primitives and objects.
@@ -338,4 +338,3 @@ const { foo, bar } = require('../index.js');
 ## Reading
 
 - http://2ality.com/2011/03/javascript-values-not-everything-is.html
-
